@@ -1,0 +1,13 @@
+html {
+	font-size: 20px;
+}
+
+body {
+	max-width: 970px;
+}
+
+.container {
+	margin: 0 auto;
+	max-width: 970px;
+	width: 90%;
+}
